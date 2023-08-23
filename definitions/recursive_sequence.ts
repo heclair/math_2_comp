@@ -6,4 +6,6 @@ function sequence(n: number): number {
   }
 }
 
-console.log(sequence(10000000));
+console.log(sequence(10));
+
+export{}
